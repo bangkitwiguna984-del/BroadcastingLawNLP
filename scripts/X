@@ -2,6 +2,16 @@
   "cells": [
     {
       "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bangkitwiguna984-del/BroadcastingLawNLP/blob/main/scripts/X\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
       "source": [
         "### Pemodelan topik RUU Penyiaran di X (2024-2025)"
       ],
@@ -1485,7 +1495,8 @@
   ],
   "metadata": {
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     },
     "kernelspec": {
       "display_name": "Python 3",

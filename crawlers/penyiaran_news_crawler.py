@@ -22,7 +22,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 # Set your research parameters here
 # Using quotes for an exact match
-KEYWORD = '"makan bergizi gratis"'
+KEYWORD = '"RUU Penyiaran"' # can be changed to needs
 START_DATE = datetime(2025, 1, 1)
 END_DATE = datetime(2025, 7, 1)
 OUTPUT_FILENAME = 'mbg_news.csv'
